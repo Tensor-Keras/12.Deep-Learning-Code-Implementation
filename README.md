@@ -1,2 +1,2 @@
 # 12.PyTorch-DeeplearningZeroToOne
-Repository for my PyTorch Study about Deep Learning Zero To One
+딥러닝 논문 공부 및 코드 구현
